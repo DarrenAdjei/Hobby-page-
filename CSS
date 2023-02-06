@@ -1,0 +1,47 @@
+h2 { text-align: center;
+    box-shadow: 2px 2px 2px;
+}  
+p {
+    color: #9d8787;
+}
+.time {
+    background: #9d8787;
+    width: 24%;
+    padding:0.5px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.time {
+font-family: 'Reem Kufi Fun';
+font-size: 20px;
+color: rgb(4, 4, 4);
+}
+
+.time {
+font-size: 50px;
+}
+p:hover {
+    color: #080808;
+    text-align: center;
+    font-family: 'Reem Kufi Fun', sans-serif;
+    line-height: 17px;
+}
+img:hover {
+    transform: scale(1.1);
+}
+
+
+img {
+    width: 250px;
+    height: 250px;
+    margin: 10px;
+    transition: all 1s
+}
+
+.footer {
+color: #080808;
+    text-align: center;
+    font-family: 'Reem Kufi Fun', sans-serif;
+    line-height: 17px;
+}
